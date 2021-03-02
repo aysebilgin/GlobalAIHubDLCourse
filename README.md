@@ -5,5 +5,5 @@
 **Course Date:** 01-05.03.2021  
 **Name:** Ayşe  
 **Surname:** Bilgin  
-**Email:** aysebillgin@gmail.com  
+**Email:** aysebillgin9@gmail.com  
  
